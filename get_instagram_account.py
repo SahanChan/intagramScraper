@@ -1,18 +1,12 @@
 from defines import getCreds, makeApiCall
 
 def getInstagramAccount(params):
-    """Get Instagram business account linked to a Facebook Page
-    
-    API Endpoint:
-        https://graph.facebook.com/{graph-api-version}/{page-id}
-    
-    Returns:
-        object: Data from the endpoint
-    """
+
     endpointParams = {
         'access_token': params['access_token'],
         'fields': 'instagram_business_account'
     }
+    
     
     url = params['endpoint_base'] + params['page_id']
     
