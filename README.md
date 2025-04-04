@@ -1,11 +1,8 @@
 Team
 
 Thirilok 47990627
-
 Amita 48103527
-
 Ruhul 47853298
-
 Sahan 48091472
 
 Instagram's Software Development Lifecycle (SDLC) Approach
