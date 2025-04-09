@@ -239,91 +239,19 @@ attempts/minute).
 
 .
 
-
-
-Contribution 
-+--------+------------------+------------------------------------------+
-| Name   | Data & Time      | Work done                                |
-+========+==================+==========================================+
-| Amita  | Wednesday -      | [[Instagram Profiles & Posts & Comments  |
-|        | 11:00 am         | DatasetsData                             |
-|        |                  | brickshttps://marketplace.databricks.com |
-|        |                  | › details ›                              |
-|        |                  | Br                                       |
-|        |                  | ight-Da...]{.underline}](https://marketp |
-|        |                  | lace.databricks.com/details/ae1d1570-e43 |
-|        |                  | 5-4640-ab93-f294b9ae604c/Bright-Data_Ins |
-|        |                  | tagram-Profiles-Posts-Comments-Datasets) |
-|        |                  |                                          |
-|        |                  | Find out the dataset. Tried to download  |
-|        |                  | the Instagram public page data.          |
-|        |                  |                                          |
-|        |                  | Here is another dataset I found on       |
-|        |                  | GitHub.                                  |
-|        |                  |                                          |
-|        |                  | [[Dat                                    |
-|        |                  | aset]{.underline}](https://docs.google.c |
-|        |                  | om/spreadsheets/d/16O5rHiiYqPb39l214CvOf |
-|        |                  | 1jiwS2EEAXqgzHXGH-8VNE/edit?usp=sharing) |
-+--------+------------------+------------------------------------------+
-| Th     | 28/03            | Searched for publicly available dataset  |
-| irilok | (Thursday) - 3pm |                                          |
-+--------+------------------+------------------------------------------+
-| Th     | 29/03 (Friday) - | Developed a Python script and created a  |
-| irilok | 10am             | new Instagram account in order to fetch  |
-|        |                  | the publicly available data. I used the  |
-|        |                  | Selenium-Firefox combination to create a |
-|        |                  | scraper, but unfortunately, it prints    |
-|        |                  | only a few users names, not the entire   |
-|        |                  | list.                                    |
-+--------+------------------+------------------------------------------+
-| Th     | 03/04            | Got dataset from the available public    |
-| irilok | (Thursday) - 5pm | profile and gave to the team for further |
-|        |                  | analysis                                 |
-+--------+------------------+------------------------------------------+
-| Th     | Wednesday,       | Got a datas of users in JSON files with  |
-| irilok | 8:30am           | their Name, bio, number of posts, posts  |
-|        |                  | related information, follower and        |
-|        |                  | folllowing count.                        |
-|        |                  |                                          |
-|        |                  | [[                                       |
-|        |                  | https://data.world/prsr/instagram-profil |
-|        |                  | es/workspace/file?filename=instagram_pro |
-|        |                  | files.tar.gz]{.underline}](https://data. |
-|        |                  | world/prsr/instagram-profiles/workspace/ |
-|        |                  | file?filename=instagram_profiles.tar.gz) |
-+--------+------------------+------------------------------------------+
-| Amita  | Saturday 10:00   | Searching for the required script/API    |
-|        | pm               | for fetching the data from the datasets. |
-+--------+------------------+------------------------------------------+
-| Maruf  | Tuesday 7.00pm   | Created a separate Instagram account for |
-|        |                  | scraping.                                |
-+--------+------------------+------------------------------------------+
-| Maruf  | Tuesday 8.00pm   | Set up the Instagram Graph API to get    |
-|        |                  | the API keys and secrets necessary for   |
-|        |                  | Sahan to make the scraper.               |
-+--------+------------------+------------------------------------------+
-| Maruf  | Wednesday 9 00am | Updated document in the project uploaded |
-|        |                  | in github                                |
-|        |                  | [[https://github.com/Sahan               |
-|        |                  | Chan/intagramScraper]{.underline}](https |
-|        |                  | ://github.com/SahanChan/intagramScraper) |
-+--------+------------------+------------------------------------------+
-| Sahan  | Wednesday 6 00am | Analysed what thirilok and amita         |
-|        |                  | provided for the dataset analysis.       |
-|        |                  | Rewrote the scope document necessary.    |
-+--------+------------------+------------------------------------------+
-| Sahan  | Wednesday 6 30am | Researched how to make a scraper using   |
-|        |                  | python and insta graph api (which Maruf  |
-|        |                  | provided). And make a simple scraper.    |
-+--------+------------------+------------------------------------------+
-| Sahan  | Wednesday 8 30   | Later uploaded the code and scope        |
-|        | am               | document to github, here is the link,    |
-|        |                  |                                          |
-|        |                  | [[https://github.com/Sahan               |
-|        |                  | Chan/intagramScraper]{.underline}](https |
-|        |                  | ://github.com/SahanChan/intagramScraper) |
-+--------+------------------+------------------------------------------+
-| Amita  | Wednesday 9:02   | Analysed the code and scraped data added |
-|        | am               | in the github.                           |
-+--------+------------------+------------------------------------------+
+Contribution
+| Name | Date & Time | Work Done |
+|--------|---------------------|---------------------------------------------------------------------------------------------------------------------|
+| Amita | Wednesday - 11:00am | [Instagram Profiles & Posts & Comments Datasets](https://marketplace.databricks.com/details/ae1d1570-e435-4640-ab93-f294b9ae604c/Bright-Data_Instagram-Profiles-Posts-Comments-Datasets) <br> Find out the dataset. Tried to download the Instagram public page data. <br> Here is another dataset I found on GitHub: [Dataset](https://docs.google.com/spreadsheets/d/16O5rHiiYqPb39l214CvOf1jiwS2EEAXqgzHXGH-8VNE/edit?usp=sharing) |
+| Thirilok | 28/03 (Thursday) - 3:00pm | Searched for publicly available dataset |
+| Thirilok | 29/03 (Friday) - 10:00am | Developed a Python script and created a new Instagram account to fetch publicly available data. <br> Used Selenium-Firefox to create a scraper, but it only printed a few usernames. |
+| Thirilok | 03/04 (Thursday) - 5:00pm | Got dataset from public profile and gave to the team for further analysis |
+| Thirilok | Wednesday - 8:30am | Got user data in JSON with name, bio, number of posts, post-related info, followers, and following count. <br> [Dataset](https://data.world/prsr/instagram-profiles/workspace/file?filename=instagram_profiles.tar.gz) |
+| Amita | Saturday - 10:00pm | Searched for required script/API for fetching data from datasets |
+| Maruf | Tuesday - 7:00pm | Created a separate Instagram account for scraping |
+| Maruf | Tuesday - 8:00pm | Set up Instagram Graph API and got API keys/secrets for Sahan to use in scraper |
+| Maruf | Wednesday - 9:00am | Updated project document on GitHub: [GitHub Repository](https://github.com/SahanChan/intagramScraper) |
+| Sahan | Wednesday - 6:00am | Analyzed dataset info from Thirilok and Amita. Rewrote the scope document |
+| Sahan | Wednesday - 6:30am | Researched Python and Instagram Graph API scraping. Created a simple scraper |
+| Sahan | Wednesday - 8:30am | Uploaded code and scope doc to GitHub: [GitHub Repository](https://github.com/SahanChan/intagramScraper) |
+| Amita | Wednesday - 9:02am | Analyzed the code and scraped data uploaded to GitHub |
